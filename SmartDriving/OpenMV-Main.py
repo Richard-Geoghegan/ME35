@@ -66,4 +66,4 @@ while True:
     client.publish(topic_pub.encode(), msg.encode()) # publish
 
     found_tag = 0      # reset found_tag to 0
-    time.sleep_ms(10
+    time.sleep_ms(10)
