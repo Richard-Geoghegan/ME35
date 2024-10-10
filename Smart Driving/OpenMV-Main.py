@@ -1,7 +1,7 @@
 # OpenMV-Main.py
 # Richard Geoghegan
 # main.py for OpenMV camera for the smart driving project
-# Sends current X, Z position and size of AprilTag in view over MQTT
+# Sends current X, Z position of AprilTag in view over MQTT
 
 import time
 import network
