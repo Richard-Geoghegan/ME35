@@ -1,3 +1,6 @@
+# ESP32-Control.py
+# Author: Richard Geoghegan
+
 from machine import Pin, PWM
 import time
 import uasyncio as asyncio
